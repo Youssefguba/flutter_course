@@ -12,6 +12,7 @@ void main() {
   print(botLevel);
 }
 
+//TODO Create Abstract Class
 abstract class Player {
   int levelUp();
 }

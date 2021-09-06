@@ -10,6 +10,7 @@ void main() {
 
 }
 
+// TODO create a function that take [Player] abstract class as a Param.
 int levelUpPlayer(Player player) => player.levelUp();
 
 abstract class Player {
